@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="installation" max_length="40" name="x_58872_needit_installation" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Display name" label="Display name" max_length="43" name="u_display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Installed on" label="Installed on" max_length="40" name="u_installed_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Publisher" label="Publisher" max_length="40" name="u_publisher" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version" label="Version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>
